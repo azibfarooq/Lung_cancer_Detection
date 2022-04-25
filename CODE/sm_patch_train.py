@@ -6,14 +6,12 @@ os.chdir('D:/LCDC/Dataset/Training/Custom_Annos/') # Parent Directory
 Directory Structure
 Parent Directory
 |---Raw_Data
-|---|---images
-|---|---|---images [0...20]
-|---|---|---|---1.tif
-|---|---|---|---2.tif ...
-|---|---masks 
-|---|---|---masks [0...20]
-|---|---|---|---1.tif
-|---|---|---|---2.tif...
+|---|---images [0...20]
+|---|---|---1.tif
+|---|---|---2.tif ...
+|---|---masks [0...20]
+|---|---|---1.tif
+|---|---|---2.tif...
 |---Train
 |---|---images
 |---|---|---images [15k]
